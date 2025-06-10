@@ -57,8 +57,8 @@ iv) Perform face detection with label in real-time video from webcam.
 ## PROGRAM :
 
 ```
-Developed by : SRIKAAVYAA T
-Reg NO : 212223230214
+Developed by : SARAVANAN G
+Reg NO : 212223230194
 ```
 ```
 import numpy as np
